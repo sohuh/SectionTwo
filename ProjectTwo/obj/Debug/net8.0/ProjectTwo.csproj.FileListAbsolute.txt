@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\bin\Debug\net8.0\ProjectTwo.exe
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\bin\Debug\net8.0\ProjectTwo.deps.json
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\bin\Debug\net8.0\ProjectTwo.runtimeconfig.json
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\bin\Debug\net8.0\ProjectTwo.dll
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\bin\Debug\net8.0\ProjectTwo.pdb
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\obj\Debug\net8.0\ProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\obj\Debug\net8.0\ProjectTwo.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\obj\Debug\net8.0\ProjectTwo.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\obj\Debug\net8.0\ProjectTwo.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\obj\Debug\net8.0\ProjectTwo.dll
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\obj\Debug\net8.0\refint\ProjectTwo.dll
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\obj\Debug\net8.0\ProjectTwo.pdb
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\obj\Debug\net8.0\ProjectTwo.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Comp Sci\C#\ProjectTwo\ProjectTwo\obj\Debug\net8.0\ref\ProjectTwo.dll
